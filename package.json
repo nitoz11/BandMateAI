@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@spotify/basic-pitch": "^1.0.1",
+    "@tonejs/midi": "^2.0.28",
+    "ibm-watson": "^12.2.0",
+    "jspdf": "^4.2.1",
     "next": "16.2.12",
     "react": "19.2.4",
     "react-dom": "19.2.4"
