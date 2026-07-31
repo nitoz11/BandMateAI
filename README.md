@@ -2,7 +2,7 @@
 
 BandMate AI is an AI-powered music co-creation platform built for the IBM SkillsBuild AI Builders Challenge.
 
-Users can hum a melody, upload an audio recording, and receive intelligent producer feedback, musical analysis, and creative suggestions powered by IBM watsonx.ai.
+Users can hum a melody, upload an audio recording, and receive intelligent producer feedback and play around with the beat or melody by giving inputs of what they want to do, musical analysis, and creative suggestions powered by IBM watsonx.ai.
 
 ---
 
