@@ -137,7 +137,7 @@ IBM_PROJECT_ID=your_project_id
 - Full song generation
 - Advanced chord progression engine
 - Lyrics generation
-- AI beat creation
+- AI aided beat creation and production
 - DAW export support
 - Collaboration features
 
